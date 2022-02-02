@@ -1,0 +1,2 @@
+# Bot for automatically liking media in Instagram
+The bot is based on the instagrapi library. The essence of its work is to find instagram accounts that are subscribed to specific users or search for media that has recently been published with the indication of specific locations. After selecting and verifying the media content, it likes the publications, thereby attracting the attention of the owner of the publication. The bot can be used for passive promotion as well as for advertising the account.
