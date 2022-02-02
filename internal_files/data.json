@@ -1,0 +1,25 @@
+{
+  "login": "YOUR_LOGIN",
+  "password": "YOUR_PASSWORD",
+  "groups": [
+    "EXAMPLE_1",
+    "EXAMPLE_2",
+    "EXAMPLE_3",
+    "EXAMPLE_4",
+    "EXAMPLE_5"
+  ],
+  "locations": [
+    "EXAMPLE_1",
+    "EXAMPLE_2",
+    "EXAMPLE_3",
+    "EXAMPLE_4",
+    "EXAMPLE_5"
+  ],
+  /*
+  Remove this comment before using this app
+  limit - the number of likes per session
+  hour_limit - the number of likes per hour (less than 50 is recommended)
+  */
+  "limit": 3,
+  "hour_limit" : 50
+}
