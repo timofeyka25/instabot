@@ -174,6 +174,7 @@ class Bot:
         """Write log in a file"""
         with open("internal_files/logs.txt", 'a') as logs:
             logs.write(f'{string} [Datetime:{datetime.now()}]\n')
+            print(f'{string} [Datetime:{datetime.now()}]\n')
             if end_session:
                 logs.write('\n')
 

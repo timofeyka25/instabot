@@ -1,1 +1,2 @@
 instagrapi==1.16.13
+Pillow==8.4.0
